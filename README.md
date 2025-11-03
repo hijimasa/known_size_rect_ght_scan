@@ -257,7 +257,7 @@ MIT License
 
 ## メンテナ
 
-- you@example.com
+- Masaaki HIJIKATA (hijimasa@gmail.com)
 
 ---
 
